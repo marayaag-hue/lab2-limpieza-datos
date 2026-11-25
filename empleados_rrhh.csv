@@ -1,0 +1,601 @@
+id_empleado,departamento,cargo,salario_mensual,antiguedad_anos,edad,satisfaccion_laboral,horas_extra_mes,ausencias_mes,renuncio
+1,Operaciones,Especialista,1591.98,2.9,25.0,4.7,4.0,2,0
+2,Marketing,Analista,1246.42,0.1,22.0,5.4,9.0,3,0
+3,Marketing,Analista,1202.97,0.2,28.0,8.8,8.0,1,0
+4,Recursos Humanos,Especialista,1665.51,1.9,31.0,8.3,7.0,3,0
+5,Sistemas,Coordinador,2727.92,9.5,31.0,7.0,12.0,4,0
+6,Marketing,Especialista,1729.39,0.9,29.0,,15.0,0,0
+7,Ventas,Coordinador,,3.0,28.0,6.0,11.0,1,0
+8,Ventas,Gerente,4266.1,0.1,30.0,6.0,9.0,4,0
+9,Sistemas,Analista,1281.38,2.2,23.0,1.5,4.0,2,0
+10,Finanzas,Especialista,1641.97,1.6,33.0,4.6,7.0,3,1
+11,Recursos Humanos,Analista,1355.1,8.0,34.0,7.9,12.0,3,0
+12,Marketing,Especialista,1730.16,10.4,44.0,,6.0,2,0
+13,Marketing,Analista,1389.5,10.5,39.0,4.6,7.0,1,0
+14,Ventas,Especialista,2048.18,9.2,32.0,8.4,5.0,4,0
+15,Sistemas,Analista,,6.0,30.0,6.2,7.0,2,0
+16,Sistemas,Analista,1448.01,2.8,27.0,7.3,7.0,1,0
+17,Marketing,Analista,1102.16,2.0,27.0,4.1,11.0,4,1
+18,Sistemas,Analista,1225.5,6.4,39.0,5.1,2.0,1,0
+19,Ventas,Gerente,4280.53,2.0,26.0,9.0,7.0,4,1
+20,Operaciones,Director,9472.98,21.7,56.0,6.1,5.0,2,0
+21,Sistemas,Analista,1330.47,9.3,45.0,6.3,5.0,1,0
+22,Finanzas,Especialista,1866.52,8.8,38.0,9.6,4.0,4,1
+23,Sistemas,Coordinador,2783.39,18.5,52.0,9.0,9.0,1,0
+24,Recursos Humanos,Especialista,1833.55,2.2,25.0,3.0,5.0,1,0
+25,Sistemas,Analista,1381.2,10.2,39.0,3.1,13.0,0,0
+26,Finanzas,Especialista,2199.71,9.4,46.0,6.8,3.0,3,0
+27,Recursos Humanos,Coordinador,2799.0,1.3,26.0,6.5,2.0,1,0
+28,Sistemas,Especialista,1547.88,2.3,23.0,5.5,16.0,1,0
+29,Recursos Humanos,Especialista,1966.71,8.6,40.0,8.0,18.0,3,1
+30,Recursos Humanos,Coordinador,2296.15,0.6,22.0,3.8,6.0,2,0
+31,Sistemas,Especialista,2004.88,5.9,37.0,3.5,5.0,0,0
+32,Marketing,Coordinador,2200.15,11.6,41.0,6.0,10.0,4,1
+33,Finanzas,Especialista,1694.16,0.2,24.0,4.5,5.0,3,0
+34,Operaciones,Analista,1352.14,1.4,35.0,4.2,6.0,2,0
+35,Operaciones,Analista,1225.33,0.7,33.0,5.5,23.0,2,1
+36,Operaciones,Analista,1411.86,1.7,34.0,5.1,9.0,1,0
+37,Operaciones,Analista,1495.34,5.4,29.0,6.2,14.0,1,0
+38,Recursos Humanos,Analista,1370.24,1.0,24.0,3.4,5.0,1,0
+39,Marketing,Gerente,3584.87,1.8,23.0,,8.0,1,0
+40,Marketing,Especialista,,3.0,33.0,3.4,14.0,2,0
+41,Operaciones,Gerente,4508.44,10.9,38.0,4.9,8.0,3,1
+42,Ventas,Analista,1451.14,1.1,31.0,6.3,12.0,1,0
+43,Recursos Humanos,Especialista,1612.39,9.1,36.0,5.6,7.0,2,0
+44,Marketing,Especialista,1766.2,0.6,31.0,5.2,7.0,3,0
+45,Finanzas,Coordinador,2855.13,7.3,34.0,6.1,16.0,1,0
+46,Ventas,Especialista,2209.14,1.7,30.0,3.9,10.0,2,0
+47,Recursos Humanos,Analista,1321.79,8.1,44.0,3.6,7.0,4,0
+48,Finanzas,Gerente,4820.24,7.6,41.0,5.2,7.0,2,0
+49,Finanzas,Analista,1294.68,0.3,22.0,,10.0,1,0
+50,Ventas,Coordinador,2930.48,4.2,25.0,6.3,4.0,6,1
+51,Operaciones,Analista,,5.6,36.0,6.7,5.0,4,1
+52,Marketing,Especialista,1811.35,0.9,27.0,2.2,5.0,2,1
+53,Sistemas,Analista,1226.06,4.5,35.0,6.4,10.0,3,0
+54,Ventas,Analista,1402.81,8.2,34.0,4.4,13.0,3,0
+55,Operaciones,Especialista,2113.08,7.9,32.0,5.7,6.0,2,0
+56,Finanzas,Director,9521.86,1.3,26.0,5.8,7.0,1,0
+57,Finanzas,Gerente,3731.31,12.3,39.0,6.5,5.0,1,0
+58,Recursos Humanos,Coordinador,2172.19,1.0,26.0,2.7,5.0,1,0
+59,Operaciones,Especialista,1785.63,2.5,28.0,4.1,20.0,3,0
+60,Ventas,Analista,1481.36,8.2,36.0,6.6,5.0,4,0
+61,Sistemas,Analista,1402.77,0.7,25.0,3.1,11.0,1,0
+62,Finanzas,Gerente,3950.51,12.2,46.0,8.3,20.0,1,0
+63,Finanzas,Gerente,4551.2,0.8,30.0,2.4,7.0,2,0
+64,Recursos Humanos,Especialista,1881.17,2.2,33.0,6.3,5.0,2,0
+65,Operaciones,Coordinador,2311.64,0.7,24.0,3.6,36.0,1,0
+66,Finanzas,Analista,1394.51,0.5,,6.8,1.0,0,0
+67,Operaciones,Gerente,3799.4,1.8,25.0,5.0,6.0,3,0
+68,Recursos Humanos,Director,6977.31,0.5,22.0,5.4,21.0,1,0
+69,Finanzas,Especialista,1576.38,3.4,29.0,1.2,2.0,3,0
+70,Ventas,Analista,1312.88,1.0,22.0,1.4,2.0,6,0
+71,Sistemas,Especialista,2024.69,1.8,26.0,7.7,12.0,4,1
+72,Marketing,Coordinador,3078.21,4.7,35.0,2.0,12.0,1,1
+73,Operaciones,Especialista,1945.8,4.8,32.0,6.4,23.0,0,0
+74,Sistemas,Gerente,4436.18,1.2,27.0,4.3,21.0,2,0
+75,Ventas,Analista,1088.31,1.2,27.0,9.4,3.0,3,0
+76,Operaciones,Coordinador,2757.08,1.0,22.0,1.5,20.0,0,0
+77,Sistemas,Gerente,4258.07,0.8,31.0,3.8,16.0,1,0
+78,Sistemas,Director,7797.3,4.7,34.0,4.4,24.0,1,0
+79,Marketing,Coordinador,2761.64,4.5,30.0,9.2,14.0,1,0
+80,Marketing,Analista,1085.44,3.6,32.0,4.1,6.0,2,0
+81,Finanzas,Analista,1235.54,5.0,35.0,6.7,4.0,2,0
+82,Marketing,Especialista,1901.4,3.5,28.0,2.7,11.0,1,0
+83,Marketing,Especialista,2222.34,0.6,24.0,3.9,6.0,0,0
+84,Marketing,Coordinador,2410.01,0.3,31.0,6.2,5.0,0,0
+85,Ventas,Analista,1116.1,1.6,30.0,2.0,15.0,2,0
+86,Finanzas,Analista,1318.99,0.7,29.0,8.3,2.0,1,0
+87,Sistemas,Analista,1076.02,3.2,30.0,2.5,6.0,1,0
+88,Ventas,Especialista,1958.07,0.8,23.0,5.3,11.0,1,0
+89,Recursos Humanos,Especialista,1857.13,6.1,31.0,1.6,12.0,2,1
+90,Operaciones,Especialista,1837.62,5.2,37.0,2.3,10.0,0,0
+91,Finanzas,Especialista,1909.76,2.4,27.0,6.5,4.0,4,0
+92,Sistemas,Coordinador,2722.2,3.7,34.0,9.4,6.0,0,0
+93,Recursos Humanos,Analista,1338.43,0.4,22.0,5.4,18.0,3,0
+94,Recursos Humanos,Coordinador,2772.54,6.3,41.0,,20.0,1,1
+95,Sistemas,Especialista,2026.79,2.6,27.0,1.7,3.0,1,0
+96,Marketing,Analista,1069.25,1.2,27.0,6.2,10.0,1,0
+97,Operaciones,Coordinador,,2.5,34.0,7.1,28.0,2,0
+98,Ventas,Especialista,1748.43,4.8,37.0,6.2,26.0,1,0
+99,Recursos Humanos,Analista,1461.12,6.3,37.0,4.1,3.0,2,0
+100,Operaciones,Gerente,4451.56,2.0,34.0,5.1,12.0,5,0
+101,Marketing,Coordinador,2861.2,0.7,22.0,5.8,19.0,7,1
+102,Sistemas,Analista,1123.69,0.1,22.0,6.0,2.0,0,0
+103,Recursos Humanos,Especialista,2155.71,13.6,47.0,3.2,13.0,2,0
+104,Operaciones,Gerente,4895.03,11.9,40.0,5.5,9.0,3,0
+105,Marketing,Coordinador,2382.87,0.2,28.0,5.8,15.0,2,0
+106,Finanzas,Especialista,1669.49,0.4,25.0,6.7,10.0,2,1
+107,Sistemas,Analista,1307.95,3.3,,4.2,5.0,3,1
+108,Recursos Humanos,Analista,1451.93,3.6,,3.9,18.0,0,0
+109,Sistemas,Coordinador,,0.7,28.0,2.7,3.0,4,0
+110,Sistemas,Analista,1105.16,6.7,35.0,10.0,11.0,3,0
+111,Sistemas,Coordinador,2862.5,1.7,25.0,6.8,8.0,2,1
+112,Operaciones,Analista,1264.97,4.0,35.0,2.0,3.0,3,1
+113,Marketing,Analista,1106.41,0.5,27.0,4.2,5.0,3,1
+114,Operaciones,Coordinador,2463.01,1.7,30.0,2.4,7.0,2,0
+115,Finanzas,Coordinador,2225.66,6.8,32.0,4.6,4.0,2,1
+116,Ventas,Gerente,3615.25,1.6,33.0,5.6,24.0,1,1
+117,Recursos Humanos,Coordinador,2759.03,2.2,29.0,5.3,16.0,1,0
+118,Recursos Humanos,Analista,1290.87,1.9,29.0,3.3,5.0,3,0
+119,Sistemas,Analista,1193.0,16.8,44.0,7.8,20.0,2,0
+120,Recursos Humanos,Especialista,1987.19,3.5,31.0,2.5,5.0,0,0
+121,Marketing,Coordinador,2816.28,1.7,22.0,4.7,22.0,0,0
+122,Sistemas,Analista,1331.05,2.2,31.0,3.3,1.0,0,0
+123,Sistemas,Especialista,2241.68,2.9,27.0,5.3,3.0,3,0
+124,Recursos Humanos,Especialista,2092.22,0.2,22.0,1.9,6.0,3,1
+125,Sistemas,Analista,1381.57,4.0,37.0,3.0,14.0,1,0
+126,Ventas,Especialista,1587.4,1.5,26.0,6.7,6.0,2,1
+127,Sistemas,Gerente,4268.35,3.6,25.0,8.3,5.0,0,0
+128,Operaciones,Analista,1193.3,2.2,,5.1,15.0,5,0
+129,Finanzas,Coordinador,2982.7,2.5,32.0,6.8,12.0,1,0
+130,Ventas,Analista,1065.93,12.2,46.0,3.4,8.0,3,0
+131,Ventas,Analista,1041.17,1.6,29.0,1.5,3.0,1,0
+132,Recursos Humanos,Coordinador,2425.0,0.6,25.0,5.2,8.0,3,0
+133,Sistemas,Coordinador,2499.16,11.0,40.0,6.3,10.0,1,0
+134,Recursos Humanos,Especialista,2228.43,1.4,23.0,7.3,6.0,1,0
+135,Finanzas,Especialista,1586.38,7.7,38.0,6.6,4.0,1,0
+136,Marketing,Analista,1434.78,16.0,,,14.0,1,0
+137,Ventas,Especialista,1593.94,3.2,32.0,,10.0,2,1
+138,Finanzas,Gerente,3756.5,0.6,29.0,5.6,2.0,3,0
+139,Operaciones,Especialista,1782.87,5.8,37.0,5.0,1.0,1,0
+140,Ventas,Especialista,2158.06,4.2,31.0,3.2,2.0,2,0
+141,Marketing,Coordinador,3029.5,7.8,31.0,9.8,10.0,1,0
+142,Finanzas,Coordinador,2409.85,6.6,36.0,5.1,12.0,3,0
+143,Finanzas,Especialista,1714.88,6.3,32.0,5.5,22.0,0,0
+144,Marketing,Analista,1151.86,15.1,47.0,4.1,3.0,6,0
+145,Recursos Humanos,Especialista,1687.19,3.2,28.0,4.3,0.0,3,0
+146,Marketing,Gerente,3799.74,1.9,26.0,2.9,7.0,2,0
+147,Ventas,Analista,1330.85,8.9,41.0,5.4,13.0,1,0
+148,Ventas,Analista,1392.39,2.4,32.0,6.2,6.0,1,1
+149,Finanzas,Analista,1170.63,0.8,22.0,4.7,1.0,1,0
+150,Marketing,Especialista,1532.03,8.2,36.0,4.9,13.0,0,0
+151,Ventas,Especialista,2217.57,4.9,34.0,8.1,9.0,1,0
+152,Recursos Humanos,Coordinador,2293.87,8.5,39.0,2.7,4.0,1,1
+153,Ventas,Gerente,4317.71,3.8,33.0,3.2,3.0,1,1
+154,Operaciones,Analista,1054.49,4.8,31.0,5.6,11.0,1,0
+155,Marketing,Especialista,1677.92,1.4,23.0,6.6,17.0,2,0
+156,Recursos Humanos,Coordinador,3055.01,6.5,33.0,4.9,4.0,1,1
+157,Recursos Humanos,Especialista,2191.02,0.2,29.0,6.0,13.0,1,0
+158,Recursos Humanos,Analista,1442.04,1.0,24.0,2.1,23.0,1,0
+159,Ventas,Especialista,1632.91,1.5,23.0,,6.0,4,0
+160,Ventas,Analista,1113.73,1.6,38.0,7.5,11.0,2,0
+161,Recursos Humanos,Coordinador,2713.74,4.3,27.0,7.1,1.0,3,0
+162,Sistemas,Analista,1070.29,1.0,27.0,3.8,3.0,1,0
+163,Finanzas,Especialista,1751.99,8.3,36.0,5.3,13.0,2,0
+164,Recursos Humanos,Coordinador,2822.45,3.0,28.0,8.6,3.0,3,0
+165,Finanzas,Coordinador,2542.47,3.2,30.0,7.0,10.0,2,1
+166,Sistemas,Gerente,3774.55,1.8,23.0,9.2,2.0,1,0
+167,Marketing,Coordinador,2756.39,1.9,32.0,6.5,11.0,2,0
+168,Finanzas,Analista,1080.62,2.5,,,14.0,1,0
+169,Sistemas,Especialista,2116.06,3.8,28.0,1.8,10.0,1,0
+170,Ventas,Director,7114.96,1.6,29.0,2.5,12.0,1,0
+171,Sistemas,Analista,1191.0,21.7,53.0,8.5,11.0,3,0
+172,Ventas,Analista,1154.8,11.3,48.0,7.1,4.0,1,0
+173,Marketing,Analista,1475.18,0.4,27.0,5.7,7.0,2,0
+174,Marketing,Especialista,,5.1,30.0,5.7,9.0,1,0
+175,Finanzas,Analista,1288.24,0.7,33.0,8.5,3.0,0,0
+176,Finanzas,Coordinador,2570.94,3.1,22.0,4.6,1.0,4,0
+177,Sistemas,Coordinador,,2.8,26.0,,3.0,3,0
+178,Finanzas,Gerente,,4.8,34.0,3.4,8.0,4,0
+179,Sistemas,Analista,1065.44,1.3,22.0,5.1,15.0,4,0
+180,Ventas,Especialista,1567.94,0.6,31.0,9.4,13.0,2,0
+181,Finanzas,Director,,0.1,22.0,4.8,13.0,0,0
+182,Finanzas,Coordinador,2446.86,10.6,40.0,6.3,21.0,2,1
+183,Ventas,Analista,1183.71,2.0,34.0,10.0,6.0,5,0
+184,Sistemas,Especialista,1623.71,0.1,25.0,9.6,2.0,3,0
+185,Finanzas,Especialista,1540.21,0.6,24.0,,23.0,3,0
+186,Marketing,Analista,1129.35,0.1,34.0,6.2,7.0,3,0
+187,Finanzas,Analista,,0.3,22.0,9.3,2.0,4,0
+188,Recursos Humanos,Especialista,1601.59,8.7,,8.8,6.0,1,1
+189,Sistemas,Coordinador,2555.57,8.5,33.0,5.9,9.0,1,0
+190,Ventas,Analista,1172.51,0.8,22.0,2.0,9.0,2,1
+191,Recursos Humanos,Analista,1129.96,0.7,32.0,7.3,14.0,3,0
+192,Recursos Humanos,Especialista,1566.17,0.0,24.0,4.4,3.0,6,1
+193,Operaciones,Coordinador,2228.39,1.2,31.0,5.0,11.0,0,0
+194,Sistemas,Especialista,1875.93,0.0,22.0,3.5,8.0,1,0
+195,Sistemas,Coordinador,2180.88,2.1,27.0,1.0,43.0,3,0
+196,Sistemas,Especialista,1783.84,1.1,31.0,6.6,5.0,2,1
+197,Ventas,Gerente,4713.64,5.2,28.0,8.9,11.0,2,0
+198,Finanzas,Gerente,4104.16,4.5,28.0,5.3,6.0,3,0
+199,Marketing,Especialista,1945.46,0.2,27.0,5.9,7.0,3,0
+200,Marketing,Especialista,1708.97,1.3,36.0,4.5,11.0,1,1
+201,Finanzas,Especialista,1961.96,1.2,30.0,1.6,4.0,4,0
+202,Recursos Humanos,Especialista,1969.48,4.1,33.0,6.1,6.0,1,0
+203,Finanzas,Analista,1119.84,2.4,31.0,2.5,7.0,6,1
+204,Ventas,Coordinador,2655.29,4.5,38.0,5.3,20.0,4,0
+205,Ventas,Coordinador,2364.47,3.2,27.0,4.8,12.0,2,0
+206,Recursos Humanos,Coordinador,2126.36,3.8,31.0,4.3,2.0,3,1
+207,Ventas,Especialista,1984.86,2.0,32.0,3.7,9.0,0,0
+208,Marketing,Analista,1143.17,3.3,33.0,7.9,13.0,2,0
+209,Operaciones,Analista,1286.42,2.6,31.0,6.8,4.0,0,0
+210,Sistemas,Especialista,2047.97,0.9,22.0,5.7,9.0,1,0
+211,Ventas,Gerente,,4.7,42.0,4.5,19.0,1,0
+212,Ventas,Director,8617.47,5.2,34.0,2.2,16.0,2,0
+213,Operaciones,Coordinador,2457.24,2.9,34.0,7.6,23.0,1,0
+214,Ventas,Analista,1399.98,0.9,23.0,5.3,13.0,2,0
+215,Ventas,Analista,1448.74,7.7,43.0,5.1,4.0,2,0
+216,Finanzas,Gerente,3505.34,2.8,28.0,3.9,10.0,2,0
+217,Operaciones,Analista,1452.68,6.2,36.0,7.2,9.0,3,0
+218,Recursos Humanos,Analista,1451.44,5.9,32.0,2.9,11.0,1,0
+219,Sistemas,Analista,1036.41,3.2,22.0,7.0,6.0,2,0
+220,Ventas,Especialista,2164.05,0.2,25.0,4.8,4.0,3,1
+221,Operaciones,Analista,1478.07,3.5,37.0,3.6,6.0,0,0
+222,Operaciones,Especialista,1990.22,0.0,24.0,3.9,17.0,2,1
+223,Operaciones,Gerente,4179.11,0.4,25.0,3.6,2.0,2,0
+224,Marketing,Analista,1393.45,6.5,38.0,4.8,8.0,4,0
+225,Operaciones,Gerente,4510.95,1.3,29.0,6.3,5.0,0,0
+226,Finanzas,Analista,1194.39,3.3,22.0,4.1,18.0,1,0
+227,Operaciones,Especialista,1694.13,1.9,28.0,2.9,3.0,2,0
+228,Sistemas,Analista,1051.21,3.1,33.0,6.4,12.0,1,0
+229,Recursos Humanos,Analista,1060.9,5.1,29.0,5.1,15.0,1,0
+230,Marketing,Analista,1275.69,6.2,36.0,5.4,13.0,5,1
+231,Recursos Humanos,Gerente,3739.09,2.1,27.0,3.8,15.0,1,0
+232,Sistemas,Especialista,2085.4,0.1,23.0,3.1,19.0,1,0
+233,Ventas,Analista,1321.16,1.4,22.0,4.9,17.0,1,0
+234,Marketing,Analista,1404.43,0.1,25.0,,9.0,2,0
+235,Ventas,Especialista,1839.38,4.4,30.0,6.4,9.0,1,0
+236,Operaciones,Coordinador,2493.15,0.9,27.0,5.3,3.0,0,0
+237,Finanzas,Especialista,1998.56,0.1,28.0,5.0,4.0,2,0
+238,Sistemas,Especialista,1860.75,1.8,28.0,4.0,4.0,1,0
+239,Sistemas,Director,8122.0,1.2,26.0,6.6,5.0,4,0
+240,Finanzas,Coordinador,3077.45,3.9,24.0,7.3,10.0,4,0
+241,Ventas,Analista,1391.84,2.2,23.0,2.7,2.0,0,1
+242,Operaciones,Coordinador,2531.3,1.6,24.0,4.5,17.0,3,1
+243,Finanzas,Gerente,3790.2,1.2,28.0,3.4,30.0,0,1
+244,Operaciones,Especialista,2015.44,3.5,28.0,3.7,10.0,4,0
+245,Operaciones,Coordinador,2620.86,1.3,24.0,2.6,2.0,5,1
+246,Recursos Humanos,Analista,1181.97,5.1,33.0,1.0,3.0,3,1
+247,Recursos Humanos,Especialista,1710.85,5.5,30.0,6.8,1.0,1,0
+248,Marketing,Director,8090.01,2.5,25.0,5.9,10.0,2,0
+249,Operaciones,Gerente,4466.03,1.5,27.0,3.4,10.0,0,0
+250,Sistemas,Analista,1039.75,16.5,50.0,6.4,17.0,3,0
+251,Marketing,Coordinador,2881.96,13.1,41.0,6.8,5.0,3,0
+252,Operaciones,Especialista,2159.96,5.5,36.0,7.3,11.0,1,0
+253,Marketing,Analista,1497.31,5.7,38.0,5.0,11.0,3,0
+254,Marketing,Analista,1215.66,1.2,28.0,5.7,12.0,1,0
+255,Finanzas,Especialista,1723.93,8.1,34.0,6.3,18.0,3,1
+256,Marketing,Analista,1209.47,3.2,29.0,3.0,4.0,2,0
+257,Marketing,Especialista,2200.89,3.1,36.0,4.0,23.0,1,1
+258,Recursos Humanos,Coordinador,2302.52,11.9,41.0,7.8,25.0,3,0
+259,Ventas,Especialista,2237.0,1.0,30.0,2.7,11.0,2,0
+260,Marketing,Coordinador,2885.14,9.2,44.0,8.1,2.0,3,0
+261,Marketing,Coordinador,2936.36,0.5,37.0,1.0,3.0,1,1
+262,Operaciones,Especialista,1871.7,1.3,25.0,7.0,11.0,2,0
+263,Sistemas,Especialista,1936.68,0.9,,3.9,9.0,1,0
+264,Finanzas,Especialista,1891.54,14.4,46.0,6.0,18.0,2,0
+265,Recursos Humanos,Gerente,4675.04,6.5,38.0,4.7,15.0,3,1
+266,Marketing,Especialista,1720.83,2.8,30.0,5.5,4.0,5,1
+267,Finanzas,Analista,1057.26,0.1,23.0,1.1,23.0,0,0
+268,Operaciones,Coordinador,2506.65,3.3,25.0,8.2,8.0,2,0
+269,Operaciones,Coordinador,2978.4,6.3,37.0,6.5,8.0,2,0
+270,Marketing,Especialista,2179.58,5.4,34.0,3.6,3.0,5,1
+271,Recursos Humanos,Coordinador,2890.75,4.8,30.0,2.5,18.0,3,1
+272,Recursos Humanos,Especialista,1761.4,0.4,28.0,6.2,19.0,4,0
+273,Finanzas,Especialista,1978.57,1.9,32.0,7.1,19.0,2,0
+274,Recursos Humanos,Coordinador,2618.73,0.2,22.0,5.3,6.0,3,0
+275,Sistemas,Coordinador,2453.57,0.7,22.0,3.9,4.0,3,0
+276,Sistemas,Especialista,1685.01,1.2,28.0,6.0,7.0,2,0
+277,Ventas,Analista,1364.38,1.3,24.0,1.0,2.0,3,0
+278,Finanzas,Coordinador,2694.37,1.5,26.0,4.9,5.0,3,0
+279,Marketing,Especialista,1843.54,7.8,40.0,5.7,18.0,2,0
+280,Finanzas,Analista,1164.72,3.3,29.0,6.9,4.0,1,0
+281,Recursos Humanos,Analista,1299.72,3.0,33.0,5.0,10.0,2,0
+282,Marketing,Analista,1236.85,7.6,39.0,7.0,6.0,1,0
+283,Operaciones,Especialista,2096.45,10.5,43.0,3.4,3.0,3,0
+284,Marketing,Coordinador,2935.88,2.3,23.0,2.1,9.0,0,0
+285,Operaciones,Gerente,4081.32,2.7,22.0,9.2,8.0,5,0
+286,Ventas,Especialista,1788.55,8.7,40.0,1.0,2.0,2,0
+287,Finanzas,Coordinador,2374.47,1.9,33.0,4.2,4.0,1,0
+288,Recursos Humanos,Coordinador,2684.48,1.8,28.0,1.0,12.0,2,0
+289,Operaciones,Analista,1358.57,0.8,31.0,5.4,5.0,2,0
+290,Sistemas,Especialista,2079.15,0.5,22.0,3.3,8.0,2,0
+291,Operaciones,Analista,1455.06,1.4,27.0,1.1,32.0,0,0
+292,Finanzas,Coordinador,2866.78,6.9,40.0,7.6,8.0,1,1
+293,Marketing,Especialista,1802.2,3.1,,5.4,9.0,1,0
+294,Sistemas,Analista,1287.24,2.2,31.0,6.0,4.0,2,0
+295,Marketing,Especialista,2114.12,1.7,31.0,2.7,4.0,1,0
+296,Ventas,Analista,1117.27,0.8,26.0,2.5,1.0,4,0
+297,Marketing,Especialista,1671.8,1.8,23.0,,7.0,2,0
+298,Recursos Humanos,Analista,1042.81,0.0,29.0,8.2,10.0,4,0
+299,Ventas,Especialista,,6.8,42.0,4.9,5.0,4,1
+300,Sistemas,Analista,1416.95,1.6,27.0,5.6,7.0,2,0
+301,Recursos Humanos,Especialista,1648.31,2.7,34.0,2.5,15.0,2,0
+302,Operaciones,Especialista,2101.43,0.4,28.0,2.1,4.0,2,0
+303,Sistemas,Analista,1244.51,0.2,26.0,1.2,13.0,3,0
+304,Recursos Humanos,Especialista,1924.41,0.4,26.0,2.8,8.0,2,0
+305,Ventas,Coordinador,2879.29,11.8,45.0,9.3,9.0,5,1
+306,Finanzas,Analista,1152.93,3.6,28.0,7.6,4.0,3,0
+307,Finanzas,Analista,1175.97,0.0,30.0,1.7,13.0,1,0
+308,Ventas,Analista,1286.36,8.6,35.0,10.0,18.0,1,0
+309,Recursos Humanos,Especialista,2245.79,1.3,30.0,7.1,8.0,3,1
+310,Marketing,Especialista,1778.11,5.8,30.0,7.7,11.0,0,1
+311,Marketing,Analista,1302.78,6.9,31.0,2.6,2.0,0,0
+312,Recursos Humanos,Especialista,1745.9,6.0,39.0,1.6,4.0,5,1
+313,Recursos Humanos,Coordinador,2247.19,2.2,32.0,2.7,4.0,2,0
+314,Finanzas,Analista,1483.94,0.4,22.0,6.1,17.0,3,0
+315,Sistemas,Analista,1267.3,3.7,31.0,7.6,4.0,1,0
+316,Recursos Humanos,Coordinador,2800.38,2.0,24.0,4.6,15.0,2,0
+317,Recursos Humanos,Gerente,4692.2,4.9,35.0,5.9,11.0,4,0
+318,Marketing,Especialista,1728.58,5.1,31.0,4.8,5.0,7,0
+319,Operaciones,Analista,1119.55,1.1,24.0,4.3,4.0,1,0
+320,Recursos Humanos,Gerente,3407.33,1.3,28.0,4.1,10.0,2,0
+321,Marketing,Analista,1116.81,0.7,23.0,1.0,6.0,2,0
+322,Finanzas,Analista,1343.43,2.6,34.0,4.8,10.0,1,1
+323,Marketing,Especialista,1596.44,4.3,28.0,,4.0,0,0
+324,Recursos Humanos,Analista,1484.1,5.7,31.0,4.1,5.0,2,0
+325,Ventas,Especialista,1587.3,11.9,40.0,7.8,10.0,3,0
+326,Recursos Humanos,Coordinador,,5.9,40.0,7.4,25.0,2,1
+327,Sistemas,Especialista,2063.65,5.8,36.0,5.4,12.0,3,0
+328,Operaciones,Analista,1131.64,0.6,30.0,7.7,13.0,1,0
+329,Sistemas,Analista,1031.32,5.3,40.0,6.6,5.0,5,0
+330,Marketing,Coordinador,3051.55,0.1,29.0,2.6,6.0,5,0
+331,Marketing,Coordinador,2727.43,15.4,48.0,,2.0,4,0
+332,Sistemas,Especialista,1788.68,2.3,24.0,7.8,4.0,2,0
+333,Recursos Humanos,Analista,1266.71,0.7,26.0,9.5,15.0,2,1
+334,Ventas,Especialista,1570.32,2.2,22.0,,11.0,0,1
+335,Finanzas,Coordinador,2876.57,0.9,23.0,,1.0,3,0
+336,Finanzas,Especialista,1913.46,4.6,33.0,2.1,11.0,2,0
+337,Ventas,Analista,1310.67,0.7,22.0,6.3,8.0,0,0
+338,Ventas,Analista,1207.54,0.7,30.0,,32.0,3,0
+339,Operaciones,Especialista,2210.69,5.5,33.0,4.6,4.0,2,0
+340,Ventas,Especialista,1861.42,5.8,35.0,5.3,4.0,3,0
+341,Marketing,Especialista,1812.24,11.5,37.0,8.6,11.0,2,0
+342,Ventas,Coordinador,2619.25,1.4,27.0,5.2,9.0,2,0
+343,Sistemas,Analista,1258.09,0.7,26.0,5.5,15.0,2,0
+344,Operaciones,Especialista,2200.69,10.2,39.0,4.3,7.0,4,0
+345,Operaciones,Gerente,3463.56,0.0,22.0,1.0,31.0,4,0
+346,Operaciones,Coordinador,2761.52,0.7,27.0,4.6,11.0,1,0
+347,Ventas,Especialista,2072.12,3.9,35.0,8.0,11.0,3,0
+348,Recursos Humanos,Especialista,1997.42,17.0,46.0,6.1,8.0,0,1
+349,Finanzas,Especialista,1908.46,2.8,26.0,1.0,6.0,1,1
+350,Finanzas,Coordinador,2954.93,3.9,29.0,5.9,1.0,3,0
+351,Finanzas,Gerente,4233.08,8.5,36.0,3.0,25.0,2,0
+352,Operaciones,Especialista,1902.74,1.0,29.0,4.8,10.0,1,0
+353,Recursos Humanos,Gerente,3970.68,4.7,34.0,4.0,25.0,3,0
+354,Ventas,Analista,1020.48,13.0,44.0,6.3,9.0,3,0
+355,Marketing,Coordinador,3001.99,11.5,42.0,3.0,2.0,4,0
+356,Operaciones,Especialista,,3.3,22.0,1.8,10.0,2,0
+357,Finanzas,Analista,1235.88,0.8,31.0,5.4,9.0,1,0
+358,Operaciones,Gerente,4278.65,1.6,31.0,7.8,17.0,1,0
+359,Recursos Humanos,Analista,1023.03,0.5,29.0,4.4,3.0,1,0
+360,Marketing,Especialista,2112.93,1.8,23.0,4.1,4.0,2,0
+361,Sistemas,Analista,1104.5,2.2,26.0,4.2,10.0,1,1
+362,Sistemas,Coordinador,2506.97,3.0,31.0,6.2,3.0,5,1
+363,Marketing,Especialista,1762.02,3.8,27.0,7.2,2.0,0,0
+364,Finanzas,Gerente,4504.15,5.4,37.0,9.3,6.0,2,0
+365,Sistemas,Analista,1294.39,13.2,47.0,6.8,10.0,4,0
+366,Recursos Humanos,Coordinador,2507.41,5.5,33.0,2.5,16.0,6,0
+367,Operaciones,Analista,1073.8,1.1,28.0,6.0,8.0,4,0
+368,Recursos Humanos,Especialista,2008.48,4.8,39.0,5.3,12.0,5,0
+369,Marketing,Analista,1104.57,11.7,38.0,10.0,20.0,2,0
+370,Ventas,Analista,1204.66,1.0,28.0,,2.0,4,0
+371,Recursos Humanos,Coordinador,2152.96,4.8,31.0,8.8,4.0,2,0
+372,Operaciones,Analista,1176.49,0.4,25.0,4.1,12.0,2,0
+373,Recursos Humanos,Especialista,1788.15,3.1,34.0,7.0,34.0,5,0
+374,Recursos Humanos,Analista,1407.55,5.4,29.0,5.6,4.0,4,0
+375,Marketing,Gerente,3961.14,4.7,35.0,6.4,1.0,4,1
+376,Marketing,Especialista,1567.6,4.9,30.0,5.4,7.0,3,0
+377,Marketing,Analista,1380.64,9.9,40.0,,10.0,2,1
+378,Recursos Humanos,Especialista,1665.29,2.1,29.0,4.9,2.0,1,0
+379,Ventas,Analista,1487.32,7.2,34.0,4.1,6.0,2,0
+380,Sistemas,Especialista,,1.5,22.0,4.5,2.0,1,0
+381,Recursos Humanos,Analista,1333.26,0.1,29.0,7.2,3.0,3,0
+382,Finanzas,Coordinador,2754.63,6.3,39.0,6.7,3.0,3,0
+383,Sistemas,Especialista,1625.39,1.6,29.0,7.1,4.0,4,0
+384,Finanzas,Gerente,3858.14,4.0,26.0,1.4,8.0,1,0
+385,Recursos Humanos,Especialista,2135.59,0.2,26.0,5.2,11.0,1,0
+386,Sistemas,Analista,1268.59,0.2,30.0,7.1,12.0,2,0
+387,Recursos Humanos,Analista,1494.05,2.2,25.0,5.3,33.0,1,0
+388,Marketing,Especialista,1723.02,4.8,36.0,6.7,3.0,3,0
+389,Finanzas,Coordinador,2825.7,2.2,28.0,7.7,18.0,0,0
+390,Marketing,Especialista,1823.92,15.7,47.0,8.0,2.0,0,0
+391,Ventas,Analista,,0.0,26.0,8.0,10.0,4,0
+392,Recursos Humanos,Analista,1161.54,1.5,32.0,3.1,10.0,2,0
+393,Sistemas,Analista,1492.47,7.0,36.0,,14.0,2,0
+394,Finanzas,Especialista,2106.06,18.6,56.0,6.0,30.0,0,1
+395,Sistemas,Analista,1109.86,3.5,27.0,6.1,7.0,1,0
+396,Ventas,Coordinador,2383.25,12.3,52.0,6.1,7.0,0,0
+397,Finanzas,Analista,1193.98,3.4,29.0,,19.0,4,0
+398,Sistemas,Especialista,2210.6,0.7,25.0,6.1,12.0,3,1
+399,Sistemas,Coordinador,2963.23,0.4,28.0,8.2,13.0,3,0
+400,Ventas,Gerente,3839.45,3.3,30.0,2.8,7.0,3,0
+401,Marketing,Gerente,4213.62,1.7,27.0,5.8,15.0,1,0
+402,Sistemas,Analista,1462.53,8.9,40.0,6.0,20.0,1,0
+403,Recursos Humanos,Especialista,2041.83,0.7,22.0,,5.0,3,0
+404,Recursos Humanos,Especialista,1904.19,6.0,29.0,3.8,0.0,6,1
+405,Sistemas,Coordinador,2254.86,3.7,34.0,2.0,18.0,3,0
+406,Finanzas,Especialista,1557.13,1.9,32.0,3.8,6.0,5,0
+407,Sistemas,Especialista,,7.1,30.0,5.9,13.0,2,0
+408,Operaciones,Coordinador,2883.21,1.9,32.0,7.1,4.0,1,1
+409,Marketing,Especialista,1750.27,1.7,28.0,6.0,10.0,0,0
+410,Finanzas,Especialista,1774.07,1.3,33.0,4.4,1.0,1,0
+411,Sistemas,Especialista,2029.88,1.5,30.0,6.8,8.0,2,0
+412,Operaciones,Especialista,2159.79,10.7,43.0,7.0,25.0,4,0
+413,Finanzas,Coordinador,2430.7,0.9,24.0,,4.0,2,0
+414,Finanzas,Analista,,0.4,28.0,6.3,20.0,2,0
+415,Operaciones,Analista,1260.61,6.4,30.0,6.4,1.0,3,0
+416,Recursos Humanos,Analista,1464.3,25.0,64.0,5.8,6.0,0,0
+417,Sistemas,Analista,1492.99,1.0,31.0,4.9,9.0,1,0
+418,Sistemas,Coordinador,2382.93,4.6,,4.3,14.0,2,1
+419,Recursos Humanos,Coordinador,2132.79,0.0,22.0,5.9,3.0,3,0
+420,Finanzas,Analista,1476.59,5.1,33.0,3.2,6.0,0,0
+421,Marketing,Coordinador,2522.64,9.6,40.0,6.8,3.0,0,0
+422,Marketing,Especialista,1706.66,7.4,34.0,10.0,12.0,2,0
+423,Marketing,Director,8900.88,1.6,28.0,6.1,20.0,3,0
+424,Recursos Humanos,Especialista,2182.15,0.2,25.0,2.5,14.0,4,1
+425,Sistemas,Especialista,1569.64,1.2,30.0,2.9,10.0,1,1
+426,Finanzas,Analista,1142.9,0.7,30.0,4.1,10.0,0,1
+427,Sistemas,Analista,1492.43,0.1,22.0,4.6,13.0,1,0
+428,Marketing,Especialista,2019.51,3.8,27.0,1.0,16.0,2,1
+429,Sistemas,Coordinador,2356.54,2.5,22.0,1.0,2.0,2,0
+430,Operaciones,Analista,1178.9,3.9,29.0,2.5,28.0,2,0
+431,Marketing,Analista,1197.26,0.5,25.0,1.8,5.0,0,0
+432,Ventas,Especialista,2174.77,5.0,36.0,6.6,2.0,2,0
+433,Marketing,Especialista,,3.5,29.0,3.7,17.0,0,0
+434,Finanzas,Coordinador,2548.79,7.3,35.0,,8.0,1,0
+435,Sistemas,Coordinador,2852.43,1.3,,5.3,9.0,1,0
+436,Finanzas,Especialista,1916.11,0.6,23.0,4.1,18.0,0,0
+437,Operaciones,Analista,1062.74,3.4,37.0,4.9,19.0,3,0
+438,Sistemas,Analista,1181.93,1.2,26.0,3.7,2.0,3,0
+439,Recursos Humanos,Especialista,2165.66,2.9,31.0,4.6,5.0,3,0
+440,Ventas,Coordinador,3029.53,12.8,42.0,5.1,5.0,0,0
+441,Finanzas,Analista,1443.95,4.0,30.0,6.6,6.0,1,1
+442,Ventas,Analista,1179.56,2.4,28.0,3.5,7.0,0,0
+443,Recursos Humanos,Especialista,1628.74,0.4,25.0,5.2,8.0,3,0
+444,Finanzas,Analista,1310.97,3.8,31.0,5.5,17.0,3,0
+445,Ventas,Especialista,1675.01,1.3,29.0,6.4,11.0,2,0
+446,Operaciones,Especialista,1697.94,3.3,32.0,6.3,16.0,1,0
+447,Finanzas,Analista,1116.63,6.1,34.0,8.6,17.0,5,0
+448,Recursos Humanos,Especialista,1638.69,0.9,23.0,6.2,20.0,1,0
+449,Recursos Humanos,Especialista,1624.18,5.9,37.0,5.7,3.0,2,0
+450,Recursos Humanos,Especialista,1832.75,3.5,28.0,7.0,1.0,5,1
+451,Sistemas,Gerente,4976.83,3.4,29.0,7.0,8.0,1,0
+452,Marketing,Analista,1054.34,2.3,31.0,4.4,7.0,1,1
+453,Sistemas,Analista,1294.53,3.8,25.0,,9.0,1,0
+454,Recursos Humanos,Especialista,1686.97,3.0,27.0,3.3,4.0,4,1
+455,Marketing,Analista,1264.82,4.5,31.0,5.6,5.0,0,0
+456,Recursos Humanos,Especialista,2146.12,3.2,25.0,6.7,8.0,3,0
+457,Marketing,Especialista,1744.43,2.7,28.0,2.5,10.0,5,1
+458,Ventas,Gerente,4589.57,2.5,36.0,2.9,6.0,0,1
+459,Operaciones,Gerente,4849.69,1.7,26.0,8.6,10.0,1,0
+460,Recursos Humanos,Analista,,6.2,24.0,5.6,1.0,4,0
+461,Marketing,Especialista,2208.03,0.6,26.0,1.1,3.0,1,1
+462,Finanzas,Coordinador,2881.82,3.6,25.0,4.5,5.0,1,0
+463,Operaciones,Gerente,3638.25,0.8,,3.0,14.0,2,0
+464,Marketing,Analista,1022.25,1.8,30.0,5.5,10.0,0,0
+465,Recursos Humanos,Analista,1227.46,4.8,40.0,4.6,7.0,2,0
+466,Finanzas,Analista,1144.95,5.8,28.0,5.8,9.0,4,0
+467,Marketing,Especialista,1740.34,25.0,65.0,10.0,15.0,1,0
+468,Operaciones,Coordinador,2749.09,8.3,,6.4,8.0,5,0
+469,Marketing,Analista,1104.22,0.4,29.0,6.3,8.0,1,0
+470,Operaciones,Coordinador,3090.3,5.4,35.0,7.5,17.0,2,0
+471,Recursos Humanos,Coordinador,,1.3,,,11.0,0,0
+472,Sistemas,Coordinador,2411.0,1.2,22.0,6.1,29.0,3,0
+473,Sistemas,Analista,1139.71,4.7,29.0,1.0,6.0,2,0
+474,Finanzas,Director,,1.2,27.0,7.3,9.0,1,0
+475,Ventas,Especialista,2022.17,5.5,35.0,5.0,24.0,2,0
+476,Sistemas,Analista,1355.04,6.5,30.0,6.6,6.0,4,0
+477,Recursos Humanos,Especialista,2247.97,0.5,23.0,3.9,1.0,2,1
+478,Ventas,Analista,1367.48,13.3,50.0,4.8,8.0,5,1
+479,Operaciones,Especialista,1974.98,18.9,59.0,10.0,10.0,1,0
+480,Finanzas,Especialista,1995.65,4.2,33.0,3.9,5.0,1,0
+481,Recursos Humanos,Especialista,2106.28,22.4,,7.0,6.0,1,0
+482,Operaciones,Especialista,2222.9,0.8,28.0,5.7,36.0,0,0
+483,Ventas,Analista,1190.2,0.3,22.0,3.0,5.0,3,0
+484,Marketing,Especialista,1858.77,1.8,26.0,5.7,10.0,3,0
+485,Marketing,Gerente,3949.29,2.6,26.0,5.1,8.0,3,1
+486,Ventas,Analista,1045.0,1.1,26.0,3.9,4.0,0,0
+487,Finanzas,Analista,1086.83,4.1,28.0,6.7,8.0,0,0
+488,Recursos Humanos,Especialista,1730.63,3.9,32.0,8.1,10.0,2,0
+489,Operaciones,Coordinador,2300.61,0.0,32.0,5.7,9.0,4,0
+490,Operaciones,Gerente,3501.71,1.4,27.0,6.4,9.0,2,0
+491,Sistemas,Especialista,1932.86,7.5,38.0,6.4,6.0,3,0
+492,Recursos Humanos,Analista,1409.12,1.8,30.0,4.7,2.0,2,0
+493,Finanzas,Analista,1341.61,2.9,30.0,3.3,22.0,6,0
+494,Operaciones,Coordinador,3011.27,1.7,25.0,5.9,6.0,5,1
+495,Marketing,Analista,1413.2,4.6,31.0,4.9,7.0,1,0
+496,Ventas,Especialista,2203.11,0.5,22.0,7.4,11.0,3,0
+497,Ventas,Analista,1084.01,3.8,29.0,9.1,17.0,1,0
+498,Recursos Humanos,Especialista,2183.32,2.9,28.0,2.4,14.0,2,0
+499,Recursos Humanos,Especialista,1739.76,0.4,29.0,4.6,13.0,5,1
+500,Marketing,Analista,1393.43,1.7,31.0,6.4,18.0,2,0
+501,Finanzas,Especialista,1892.15,4.2,37.0,3.4,5.0,3,1
+502,Ventas,Gerente,4568.83,4.2,34.0,7.8,2.0,4,0
+503,Operaciones,Gerente,4335.52,2.2,31.0,10.0,2.0,1,0
+504,Recursos Humanos,Gerente,4780.97,0.8,29.0,,27.0,1,0
+505,Marketing,Analista,1135.95,9.0,39.0,2.1,10.0,7,0
+506,Ventas,Analista,1125.59,5.8,33.0,5.9,9.0,5,1
+507,Marketing,Especialista,1688.53,1.4,34.0,5.8,1.0,3,0
+508,Finanzas,Especialista,1777.99,2.8,31.0,5.3,5.0,2,0
+509,Sistemas,Analista,1284.84,0.4,24.0,3.3,25.0,1,1
+510,Sistemas,Especialista,2212.75,4.9,27.0,2.4,5.0,5,0
+511,Sistemas,Coordinador,2855.17,3.4,30.0,7.0,5.0,2,0
+512,Finanzas,Especialista,1543.41,1.3,25.0,,7.0,2,0
+513,Operaciones,Gerente,4694.06,1.8,27.0,7.2,11.0,4,1
+514,Finanzas,Especialista,1734.04,22.9,63.0,10.0,9.0,0,0
+515,Sistemas,Analista,,4.6,31.0,8.5,5.0,0,0
+516,Sistemas,Analista,1405.1,4.3,32.0,1.9,4.0,2,0
+517,Finanzas,Coordinador,2666.7,5.9,34.0,6.3,14.0,1,0
+518,Marketing,Analista,1108.43,14.8,50.0,5.0,10.0,1,0
+519,Recursos Humanos,Coordinador,2917.59,0.7,28.0,5.9,2.0,2,0
+520,Recursos Humanos,Analista,1209.66,1.5,25.0,8.2,12.0,3,0
+521,Recursos Humanos,Especialista,1958.85,14.6,,4.7,12.0,0,1
+522,Marketing,Analista,1447.91,4.1,,6.5,12.0,1,0
+523,Finanzas,Gerente,4363.18,1.5,30.0,7.2,8.0,1,0
+524,Recursos Humanos,Coordinador,,0.3,24.0,3.3,20.0,2,0
+525,Finanzas,Especialista,1914.61,5.0,31.0,3.8,3.0,3,1
+526,Operaciones,Analista,1265.35,2.5,26.0,10.0,5.0,0,0
+527,Recursos Humanos,Analista,1301.28,3.0,27.0,2.6,4.0,3,0
+528,Finanzas,Coordinador,3099.9,3.9,31.0,5.6,6.0,3,0
+529,Recursos Humanos,Especialista,1564.91,0.0,27.0,6.9,2.0,3,0
+530,Sistemas,Gerente,4306.36,2.1,25.0,4.8,2.0,1,0
+531,Recursos Humanos,Gerente,3526.42,6.8,30.0,1.0,5.0,0,0
+532,Marketing,Analista,1142.53,7.3,32.0,4.2,11.0,1,0
+533,Finanzas,Coordinador,2298.07,0.9,26.0,2.0,19.0,4,0
+534,Recursos Humanos,Especialista,2199.26,1.6,30.0,5.4,5.0,2,0
+535,Finanzas,Especialista,1567.46,9.8,43.0,6.8,9.0,1,0
+536,Operaciones,Analista,1250.82,7.7,38.0,6.5,7.0,4,1
+537,Operaciones,Especialista,1649.04,0.7,26.0,5.2,10.0,1,0
+538,Recursos Humanos,Especialista,1817.86,6.9,35.0,,4.0,0,0
+539,Ventas,Analista,1198.43,1.7,,3.8,2.0,3,0
+540,Marketing,Especialista,2196.25,3.1,,2.2,8.0,2,0
+541,Finanzas,Especialista,2151.77,1.8,25.0,5.8,5.0,0,0
+542,Sistemas,Coordinador,2363.83,0.6,22.0,3.5,9.0,0,0
+543,Sistemas,Gerente,4125.61,3.1,28.0,4.9,11.0,3,0
+544,Operaciones,Analista,1405.28,7.4,38.0,7.8,19.0,0,0
+545,Recursos Humanos,Especialista,2095.15,7.9,41.0,2.8,18.0,4,0
+546,Ventas,Coordinador,2274.52,1.3,28.0,1.0,29.0,1,1
+547,Operaciones,Analista,1248.41,0.8,24.0,2.3,4.0,3,1
+548,Sistemas,Especialista,2221.39,8.1,43.0,,28.0,0,0
+549,Finanzas,Analista,1201.21,9.8,34.0,3.6,8.0,3,0
+550,Operaciones,Especialista,1585.19,3.6,28.0,4.8,9.0,2,0
+551,Recursos Humanos,Coordinador,3071.46,3.7,32.0,3.6,9.0,2,0
+552,Recursos Humanos,Especialista,2045.05,4.8,32.0,3.6,5.0,2,0
+553,Ventas,Analista,1339.24,0.6,22.0,4.3,6.0,3,0
+554,Finanzas,Gerente,4127.85,0.4,29.0,3.0,5.0,3,0
+555,Ventas,Coordinador,2265.83,10.4,47.0,4.8,1.0,3,0
+556,Sistemas,Especialista,1849.66,2.1,26.0,7.7,7.0,2,0
+557,Ventas,Especialista,1910.56,4.7,34.0,9.6,5.0,1,0
+558,Operaciones,Analista,1424.93,2.6,34.0,9.0,6.0,4,0
+559,Sistemas,Coordinador,2291.41,8.7,42.0,4.2,10.0,3,0
+560,Finanzas,Analista,1293.08,8.0,32.0,7.5,10.0,2,0
+561,Marketing,Analista,1490.02,0.5,28.0,5.3,10.0,0,1
+562,Operaciones,Coordinador,2183.48,0.4,25.0,6.2,12.0,2,0
+563,Marketing,Analista,1114.85,4.3,22.0,5.9,8.0,3,0
+564,Finanzas,Analista,1045.32,1.3,22.0,6.9,10.0,2,0
+565,Finanzas,Analista,1024.78,2.8,28.0,2.5,12.0,4,0
+566,Operaciones,Especialista,1703.5,2.8,34.0,4.0,6.0,2,0
+567,Finanzas,Analista,1494.71,21.0,65.0,7.5,3.0,0,0
+568,Finanzas,Coordinador,2489.28,0.7,22.0,3.6,2.0,1,0
+569,Operaciones,Especialista,1920.38,5.8,31.0,4.1,6.0,1,0
+570,Operaciones,Analista,1493.37,0.2,22.0,7.6,7.0,2,0
+571,Ventas,Especialista,1931.86,0.5,27.0,5.6,5.0,3,0
+572,Operaciones,Coordinador,2907.17,0.6,30.0,6.3,11.0,4,1
+573,Operaciones,Analista,1313.37,3.2,32.0,4.5,4.0,4,0
+574,Marketing,Director,8997.47,7.7,37.0,4.7,3.0,1,0
+575,Marketing,Especialista,2105.81,5.7,26.0,2.3,18.0,1,0
+576,Marketing,Coordinador,,2.1,24.0,8.2,6.0,0,0
+577,Operaciones,Analista,1048.04,3.4,28.0,5.5,7.0,3,0
+578,Operaciones,Analista,1432.46,0.4,26.0,2.9,3.0,1,0
+579,Recursos Humanos,Gerente,4370.24,4.2,34.0,6.9,10.0,2,0
+580,Ventas,Analista,1126.07,2.7,24.0,5.4,10.0,2,0
+581,Ventas,Analista,,25.0,62.0,6.3,6.0,1,0
+582,Finanzas,Coordinador,2235.19,3.6,39.0,7.3,2.0,4,1
+583,Marketing,Especialista,1927.41,7.6,39.0,6.6,15.0,2,1
+584,Operaciones,Gerente,3404.83,0.0,,7.6,7.0,3,0
+585,Marketing,Coordinador,2735.35,2.0,29.0,5.3,13.0,4,0
+586,Sistemas,Analista,1350.68,1.8,29.0,5.6,9.0,3,0
+587,Sistemas,Gerente,4386.29,3.4,27.0,6.0,10.0,3,0
+588,Finanzas,Analista,,2.1,24.0,6.1,3.0,0,0
+589,Recursos Humanos,Analista,1257.99,4.2,35.0,7.6,13.0,2,1
+590,Sistemas,Coordinador,2240.96,3.5,30.0,8.2,7.0,0,0
+591,Operaciones,Gerente,4958.21,5.2,36.0,5.3,1.0,1,0
+592,Sistemas,Especialista,2054.01,3.1,26.0,6.0,20.0,2,0
+593,Sistemas,Analista,1099.63,0.5,27.0,3.8,30.0,2,0
+594,Sistemas,Coordinador,2629.9,0.8,24.0,,5.0,2,1
+595,Ventas,Director,9295.27,0.1,23.0,4.6,17.0,0,0
+596,Operaciones,Analista,1266.58,3.2,29.0,8.2,15.0,5,0
+597,Marketing,Especialista,1838.26,1.7,32.0,4.8,4.0,3,0
+598,Finanzas,Analista,1197.63,1.0,26.0,2.3,17.0,1,1
+599,Recursos Humanos,Especialista,1664.35,2.8,40.0,6.0,6.0,4,0
+600,Sistemas,Analista,1037.75,1.5,23.0,6.7,2.0,3,0
